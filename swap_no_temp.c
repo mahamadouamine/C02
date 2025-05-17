@@ -6,6 +6,6 @@ int main()
     nb1= nb1 + nb2;
     nb2= nb1 - nb2;
     nb1= nb1 - nb2;
-    printf("Après échange: a = %d, b = %d\n", nb1, nb2);
+    printf("Après échange : a = %d, b = %d\n", nb1, nb2);
     return 0;
 }
